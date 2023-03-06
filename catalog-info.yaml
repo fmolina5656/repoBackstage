@@ -18,6 +18,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
 spec:
-  kind: user
-  owner: mmolina_readymind.ms
+  type: library
+  owner: user:mmolina_readymind.ms
   lifecycle: experimental
